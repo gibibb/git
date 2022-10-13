@@ -16,7 +16,7 @@
     <input id="email" type="email"> 
     <br />
     <label for="senha">sua senha</label>
-    <input id="senha" type="senha">
+    <input id="senha" type="linguee">
     <br />
     <button type="submit">
         cadastra
@@ -25,6 +25,5 @@
         limpar
     </button>
     <br />
-    
 </form>
 </html>
