@@ -16,7 +16,7 @@
     <input id="email" type="email"> 
     <br />
     <label for="senha">sua senha</label>
-    <input id="senha" type="linguee">
+    <input id="senha" type="password">
     <br />
     <button type="submit">
         cadastra
